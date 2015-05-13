@@ -1,2 +1,6 @@
-# pedro-stanaka.github.io
-Personal page: version of http://pedrotanaka.bl.ee
+pedrotanaka.bl.ee
+=========
+
+Site pessoal de Pedro Sena Tanaka.
+
+
